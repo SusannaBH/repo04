@@ -12,3 +12,5 @@ Mi primer ejercicio con ramas
 
 - Visualizar el resultado
 ![X ERROR X](./visualizarResultado.png)
+
+- Estoy en la rama Main
