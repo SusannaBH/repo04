@@ -12,3 +12,7 @@ Mi primer ejercicio con ramas
 
 - Visualizar el resultado
 ![X ERROR X](./visualizarResultado.png)
+
+- Crear rama nueva para hacer nuevos commits
+![X ERROR X](./nuevaRamaEjercicio5.png)
+
