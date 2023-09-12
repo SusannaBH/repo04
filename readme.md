@@ -13,4 +13,13 @@ Mi primer ejercicio con ramas
 - Visualizar el resultado
 ![X ERROR X](./visualizarResultado.png)
 
+
+- Crear rama nueva para hacer nuevos commits
+![X ERROR X](./nuevaRamaEjercicio5.png)
+
+- Modificar con la rama susana12092023
+
 - Estoy en la rama Main
+
+- Hago un merge NO FAST FORWARD
+![X ERROR X](./NoFastForward.png)
