@@ -1,4 +1,4 @@
-*REPOSITORIO 03*
+**REPOSITORIO 03**
 Mi primer ejercicio con ramas
 
 - Hacer tres commits
@@ -10,3 +10,5 @@ Mi primer ejercicio con ramas
 - Eliminar la rama en local
 ![X ERROR X](./eliminarRamaLocal.png)
 
+- Visualizar el resultado
+![X ERROR X](./visualizarResultado.png)
