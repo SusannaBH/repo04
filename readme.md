@@ -22,4 +22,10 @@ Mi primer ejercicio con ramas
 - Estoy en la rama Main
 
 - Hago un merge NO FAST FORWARD
-![X ERROR X](./NoFastForward.png)
+
+
+- Hago la visualización de todo
+![X ERROR X](./visualizarResultadoNoFast.png)
+
+- VISUALIZACIÓN FINAL
+![X ERROR X](./visualizacionTodo.png)
