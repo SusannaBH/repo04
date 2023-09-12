@@ -16,3 +16,4 @@ Mi primer ejercicio con ramas
 - Crear rama nueva para hacer nuevos commits
 ![X ERROR X](./nuevaRamaEjercicio5.png)
 
+- Modificar rama susana12092023
