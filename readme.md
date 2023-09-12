@@ -29,3 +29,6 @@ Mi primer ejercicio con ramas
 
 - VISUALIZACIÓN FINAL
 ![X ERROR X](./visualizacionTodo.png)
+
+- EJERCICIO 6, crear un alias con git adog
+![X ERROR X](./crearALIAS.png)
