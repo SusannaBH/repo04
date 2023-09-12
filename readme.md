@@ -7,3 +7,6 @@ Mi primer ejercicio con ramas
 - Hacer fusionamiento con merge
 ![X ERROR X](./merge.png)
 
+- Eliminar la rama en local
+![X ERROR X](./eliminarRamaLocal.png)
+
